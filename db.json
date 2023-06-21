@@ -15,6 +15,14 @@
       "cinemas":"Cinemax / Knoplex",
       "sessoes":"22h / 00h",
       "director": "Cary Fukunaga"
+    },
+    {
+      "id":3,
+      "title": "Impuros - O filme",
+      "image":"https://upload.wikimedia.org/wikipedia/pt/f/fb/Impuros_%28P%C3%B4ster%29.jpg",
+      "cinemas":"Top Show",
+      "sessoes":"21h",
+      "director": "Renê Sampaio"
     }
   ]
 }
