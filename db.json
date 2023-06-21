@@ -8,8 +8,8 @@
       "sessoes":"15:40h / 17:50h / 20h",
       "director": "Cary Fukunaga",
       "ano":"2019",
-      tipo:"Ação",
-      classificacao:"14"
+      "tipo":"Ação",
+      "classificacao":"14"
     },
     {
       "id":2,
@@ -19,8 +19,8 @@
       "sessoes":"22h / 00h",
       "director": "Cary Fukunaga",
       "ano":"2014",
-      tipo:"Policial",
-      classificacao:"16"
+      "tipo":"Policial",
+      "classificacao":"16"
     },
     {
       "id":3,
@@ -30,8 +30,8 @@
       "sessoes":"21h",
       "director": "Renê Sampaio",
       "ano":"2018",
-      tipo:"Policial",
-      classificacao:"16"
+      "tipo":"Policial",
+      "classificacao":"16"
     }
   ]
 }
