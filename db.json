@@ -1,20 +1,20 @@
 {
   "movie": [
     {
-      id:1,
-      title: "007 no time to die",
-      imagem:"https://upload.wikimedia.org/wikipedia/pt/5/52/No_Time_to_Die.jpg",
-      cinemas:"Cinemark / Cinemax / Knoplex",
-      sessoes:"15:40h / 17:50h / 20h",
-      director: "Cary Fukunaga",
+      "id":1,
+      "title": "007 no time to die",
+      "imagem":"https://upload.wikimedia.org/wikipedia/pt/5/52/No_Time_to_Die.jpg",
+      "cinemas":"Cinemark / Cinemax / Knoplex",
+      "sessoes":"15:40h / 17:50h / 20h",
+      "director": "Cary Fukunaga",
     },
     {
-      id:2,
-      title: "True Detective - The Film",
-      imagem:"https://m.media-amazon.com/images/M/MV5BMmRlYmE0Y2UtNDk2Yi00NzczLWEwZTEtZmE2OTcyYzcxYmU5XkEyXkFqcGdeQXVyNTMxMjgxMzA@._V1_FMjpg_UX1000_.jpg",
-      cinemas:"Cinemax / Knoplex",
-      sessoes:"22h / 00h",
-      director: "Cary Fukunaga",
+      "id":2,
+      "title": "True Detective - The Film",
+      "imagem":"https://m.media-amazon.com/images/M/MV5BMmRlYmE0Y2UtNDk2Yi00NzczLWEwZTEtZmE2OTcyYzcxYmU5XkEyXkFqcGdeQXVyNTMxMjgxMzA@._V1_FMjpg_UX1000_.jpg",
+      "cinemas":"Cinemax / Knoplex",
+      "sessoes":"22h / 00h",
+      "director": "Cary Fukunaga",
     }
   ]
 }
