@@ -3,7 +3,7 @@
     {
       "id":1,
       "title": "007 no time to die",
-
+      "image":"https://picsum.photos/200/300",
       "cinemas":"Cinemark / Cinemax / Knoplex",
       "sessoes":"15:40h / 17:50h / 20h",
       "director": "Cary Fukunaga"
@@ -11,7 +11,7 @@
     {
       "id":2,
       "title": "True Detective - The Film",
-
+      "image":"https://picsum.photos/200/300",
       "cinemas":"Cinemax / Knoplex",
       "sessoes":"22h / 00h",
       "director": "Cary Fukunaga"
