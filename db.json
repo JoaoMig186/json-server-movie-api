@@ -32,6 +32,61 @@
       "ano":"2018",
       "tipo":"Policial",
       "classificacao":"16"
+    },
+    {
+      "id": 4,
+      "title": "Bumblebee",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjUwNjU5NDMyNF5BMl5BanBnXkFtZTgwNzgxNjM2NzM@._V1_.jpg",
+      "cinemas": "Cinemark / Knoplex",
+      "sessoes": "16h / 18h / 20h",
+      "director": "Travis Knight",
+      "ano": "2018",
+      "tipo": "Ação",
+      "classificacao": "12"
+    },
+    {
+      "id": 5,
+      "title": "Truque de mestre 2",
+      "image": "https://s2.glbimg.com/5pOxWSLS0lkxi7UL-5BpNUdKXnM=/s.glbimg.com/jo/g1/f/original/2016/02/16/brz_danielradcliffe_charposter.jpg",
+      "cinemas": "Cinemax",
+      "sessoes": "19h / 21h",
+      "director": "Jon M. Chu",
+      "ano": "2016",
+      "tipo": "Ação",
+      "classificacao": "14"
+    },
+    {
+      "id": 6,
+      "title": "Red2: Aposentados e ainda mais perigosos",
+      "image": "https://static.wikia.nocookie.net/dublagempedia/images/c/cc/Red2.jpg/revision/latest?cb=20210120165823&path-prefix=pt-br",
+      "cinemas": "Cinemark",
+      "sessoes": "20h / 22h",
+      "director": "Dean Parisot",
+      "ano": "2013",
+      "tipo": "Ação",
+      "classificacao": "14"
+    },
+    {
+      "id": 7,
+      "title": "Sniper Americano",
+      "image": "https://imgsapp2.uai.com.br/app/noticia_133890394703/2015/02/19/164805/20150219074902490499a.jpg",
+      "cinemas": "Cinemax / Knoplex",
+      "sessoes": "18h / 20h / 22h",
+      "director": "Clint Eastwood",
+      "ano": "2014",
+      "tipo": "Drama",
+      "classificacao": "16"
+    },
+    {
+      "id": 8,
+      "title": "Gato de Botas 2",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/30918c576874ad64e1270e139302d7f4e8ed6fa1fad75a950f78d72e7f2535a8._RI_TTW_.jpg",
+      "cinemas": "Top Show",
+      "sessoes": "17h / 19h",
+      "director": "Chris Miller",
+      "ano": "2022",
+      "tipo": "Animação",
+      "classificacao": "Livre"
     }
   ]
 }
