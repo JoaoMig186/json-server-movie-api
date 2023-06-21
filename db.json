@@ -6,7 +6,10 @@
       "image":"https://upload.wikimedia.org/wikipedia/pt/5/52/No_Time_to_Die.jpg",
       "cinemas":"Cinemark / Cinemax / Knoplex",
       "sessoes":"15:40h / 17:50h / 20h",
-      "director": "Cary Fukunaga"
+      "director": "Cary Fukunaga",
+      "ano":"2019",
+      tipo:"Ação",
+      classificacao:"14"
     },
     {
       "id":2,
@@ -14,7 +17,10 @@
       "image":"https://upload.wikimedia.org/wikipedia/en/3/37/True_Detective_season_1.png",
       "cinemas":"Cinemax / Knoplex",
       "sessoes":"22h / 00h",
-      "director": "Cary Fukunaga"
+      "director": "Cary Fukunaga",
+      "ano":"2014",
+      tipo:"Policial",
+      classificacao:"16"
     },
     {
       "id":3,
@@ -22,7 +28,10 @@
       "image":"https://upload.wikimedia.org/wikipedia/pt/f/fb/Impuros_%28P%C3%B4ster%29.jpg",
       "cinemas":"Top Show",
       "sessoes":"21h",
-      "director": "Renê Sampaio"
+      "director": "Renê Sampaio",
+      "ano":"2018",
+      tipo:"Policial",
+      classificacao:"16"
     }
   ]
 }
